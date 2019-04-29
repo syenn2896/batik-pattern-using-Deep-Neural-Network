@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## CREATIVE BATIK
 
-You can use the [editor on GitHub](https://github.com/syenn2896/batik-pattern-using-Deep-Neural-Network/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Demo is here:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Because of the big size of the photos, I put it in drive: https://drive.google.com/open?id=11FnZcaZovcu1mD5EJrg-xHnS0B1dgG0Q
 
 ### Markdown
 
