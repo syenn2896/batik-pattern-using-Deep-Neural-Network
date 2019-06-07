@@ -2,7 +2,7 @@ const SIZE = 256, sampleNum = 7;
 let inputCanvas, outputContainer, statusMsg, transferBtn, sampleIndex = 0, modelReady = false, isTransfering = false;
 const inputImgs = [], outputImgs = [];
 
-const edges2batik = pix2pix('./static/batik_BtoA.pict', modelLoaded);
+const edges2batik = pix2pix('./server/static/models/batik_BtoA.pict', modelLoaded);
 
 function setup() {
   // Create canvas
